@@ -54,22 +54,17 @@
 
 # Example of a simple Scoreboard layout.
 default:
-  titles: '&#54DAF4&lʏ&#54CCED&lᴏ&#54BEE6&lᴜ&#54B1DF&lʀ&#54A3D8&lꜱ&#5495D2&lᴇ&#5487CB&lʀ&#547AC4&lᴠ&#546CBD&lᴇ&#545EB6&lʀ'
+  titles: '&#54DAF4&lR&#54CCED&la&#54BEE6&le&#54B1DF&li&#54A3D8&lZ&#5495D2&le&#5487CB&lr&#547AC4&ls&#546CBD&lM&#545EB6&lC'
   scores:
     13: '&7&m●                                ●'
     12: '   &9&lᴘʟᴀʏᴇʀ'
     11: '     &7▪ &bɴᴀᴍᴇ &f%player_name%'
-    10: '     &7▪ &bʀᴀɴᴋ &fUnknown'
     9:  ''
     8:  '   &9&lꜱᴛᴀᴛꜱ'
     7:  '     &7▪ &bʜᴇᴀʟᴛʜ &f%player_health%&7/&f%player_maxhealth%'
     6:  '     &7▪ &bʟᴇᴠᴇʟ &f%player_level%'
-    5:  ''
-    4:  '   &9&lꜱᴇʀᴠᴇʀ'
-    3:  '     &7▪ &bᴡᴏʀʟᴅ &f%player_world%'
     2:  '     &7▪ &bᴏɴʟɪɴᴇ &f%server_online%&7/&f%server_maxplayers%'
     1:  '&7&m●                                ●'
-    0:  '        &7&oʀᴜɪᴘᴇʀᴇɪʀᴀ.ᴅᴇᴠ        '
   # Hide scoreboard score numbers on supported versions.
   defaultHideNumber: true
   # Render each line every 20 ticks (1 second) (see Important Concepts).
